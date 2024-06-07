@@ -1,4 +1,4 @@
-### BikeStores Data Analysis Project
+# BikeStores Data Analysis Project
 ## Project Overview
 This project involves data analysis for a fictional bike store, utilizing SQL for data cleaning and exploratory data analysis (EDA), followed by creating dashboards in Excel and Tableau. The main objectives are to clean the data, perform insightful analysis, and visualize the results effectively.
 
